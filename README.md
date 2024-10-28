@@ -1,6 +1,8 @@
 # 🌱 Omnifood Landing Page
 
-**Omnifood** is a frontend project designed as a learning exercise in web development and design. This fictional food delivery service utilizes AI to provide healthy meal subscriptions, showcasing essential concepts for creating engaging user interfaces. This landing page highlights how effective design can enhance customer engagement and improve conversion rates, even in a fictional context.
+The **Omnifood** Landing Page showcases my journey as a front-end developer, where I applied everything I've learned to create a visually appealing and interactive experience. This project features a fictional food delivery service that leverages AI for healthy meal subscriptions. I implemented smooth animations and responsive design principles to enhance user engagement, all while adhering to the BEM methodology for structured and maintainable code. This work reflects my dedication to mastering essential web design techniques and delivering an effective landing page.
+
+
 
 ## ✨ Features
 

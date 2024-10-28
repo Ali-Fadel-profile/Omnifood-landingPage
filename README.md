@@ -1,6 +1,6 @@
 # 🌱 Omnifood Landing Page
 
-**Omnifood** is a frontend project that showcases a fictional food delivery service utilizing AI to prepare and deliver healthy meals. This landing page highlights the benefits of a smart food subscription service tailored to individual tastes and nutritional needs.
+**Omnifood** is a frontend project designed as a learning exercise in web development and design. This fictional food delivery service utilizes AI to provide healthy meal subscriptions, showcasing essential concepts for creating engaging user interfaces. This landing page highlights how effective design can enhance customer engagement and improve conversion rates, even in a fictional context.
 
 ## ✨ Features
 
@@ -19,6 +19,6 @@
 
 ## 🚀 Live Demo
 
-Check out the live demo of the Omnifood landing page: [Live Demo](https://your-live-demo-link.com)
+Check out the live demo of the Omnifood landing page: [Live Demo](https://ali-fadel-profile.github.io/Omnifood-landingPage/).
 
-![Omnifood Screenshot](img/app.jpg) <!-- Replace with your screenshot link -->
+[![Omnifood Screenshot](img/app.jpg)](https://ali-fadel-profile.github.io/Omnifood-landingPage/)

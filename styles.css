@@ -717,8 +717,6 @@ body {
   transform: translateY(-0.2rem);
 }
 .contact__image {
-  width: 100%;
-  height: 100%;
   background-image: linear-gradient(
       to right bottom,
       rgba(235, 151, 78, 0.35),
@@ -726,6 +724,8 @@ body {
     ),
     url(img/eating.jpg);
   background-size: cover;
+  width: 100%;
+  height: 100%;
   background-position: 65% center;
 }
 
